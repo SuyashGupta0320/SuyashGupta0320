@@ -22,11 +22,11 @@ I’m a high school student interested in computer science, backend development,
 
 🛠 **Technical Skills**
 
-* **Languages:** Python, JavaScript
+* **Languages:** Python, JavaScript, Java
 
-* **Frameworks:** Flask
+* **Frameworks:** Flask, Node, TailwindCSS
 
-* **Databases:** MongoDB
+* **Databases:** MongoDB, SQLite, Postgres
 
 * Tools: Git, GitHub, Docker, VS Code
 
