@@ -2,7 +2,7 @@
 
 I’m a high school student interested in computer science, backend development, and systems-level thinking. I enjoy building projects that solve real problems and using them as a way to understand how software works beyond just writing code.
 
-💻 **What I Work On**
+**What I Work On**
 
 * Backend and full-stack projects
 
@@ -10,7 +10,7 @@ I’m a high school student interested in computer science, backend development,
 
 * Exploring how security, performance, and scalability affect real applications
 
-🧠 **Currently Learning**
+**Currently Learning**
 
 * Backend architecture and API design
 
@@ -20,7 +20,7 @@ I’m a high school student interested in computer science, backend development,
 
 * How to structure larger projects cleanly and maintainably
 
-🛠 **Technical Skills**
+**Technical Skills**
 
 * **Languages:** Python, JavaScript, Java
 
@@ -30,9 +30,10 @@ I’m a high school student interested in computer science, backend development,
 
 * Tools: Git, GitHub, Docker, VS Code
 
-📂 **Projects**
+**Projects**
 
 Most of my repositories reflect my learning process and growth as a developer. They include:
+**Due to most of my projects being commissions from clients, I cannot post source code to every project I have done; I will instead write a case-study in-place.
 
 * Practical tools and services I’ve built for real use
 
@@ -40,6 +41,6 @@ Most of my repositories reflect my learning process and growth as a developer. T
 
 * Iterative projects where I improve the design over time
 
-📬 Contact
+Contact
 
 Feel free to reach out through GitHub if you have any inquries
