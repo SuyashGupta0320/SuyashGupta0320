@@ -33,7 +33,7 @@ I’m a high school student interested in computer science, backend development,
 **Projects**
 
 Most of my repositories reflect my learning process and growth as a developer. They include:
-**Due to most of my projects being commissions from clients, I cannot post source code to every project I have done; I will instead write a case-study in-place.
+*Due to most of my projects being commissions from clients, I cannot post source code to every project I have done; I will instead write a case-study in-place.*
 
 * Practical tools and services I’ve built for real use
 
