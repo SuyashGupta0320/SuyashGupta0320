@@ -1,4 +1,4 @@
-# Hi, I'm Tyler
+# Hi, I'm Suyash
 
 I'm a high school developer from Ohio focused on backend systems, security, and anything Minecraft-adjacent. Most of what I build starts as a real problem I ran into, a missing tool, an API limitation, a vulnerability in something I was using.
 
