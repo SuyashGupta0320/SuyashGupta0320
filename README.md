@@ -1,46 +1,18 @@
-👋 **Hi, I’m Suyash**
+# Hi, I'm Tyler
 
-I’m a high school student interested in computer science, backend development, and systems-level thinking. I enjoy building projects that solve real problems and using them as a way to understand how software works beyond just writing code.
+I'm a high school developer from Ohio focused on backend systems, security, and anything Minecraft-adjacent. Most of what I build starts as a real problem I ran into, a missing tool, an API limitation, a vulnerability in something I was using.
 
-**What I Work On**
+I do authorized penetration testing for clients on the side, mostly web apps and .NET applications. That work has pushed me to actually understand the systems I build rather than just getting them to run.
 
-* Backend and full-stack projects
+**Languages:** Python · JavaScript / Node.js · Java · Rust  
+**Frameworks & Tools:** Flask · Next.js · Paper API · Docker · PostgreSQL · Git  
+**Areas:** Backend architecture · API design · Auth & session security · Minecraft internals
 
-* APIs, authentication, and data handling
+---
 
-* Exploring how security, performance, and scalability affect real applications
+## Selected Projects
 
-**Currently Learning**
+> Most client work is under NDA, so I write case studies in place of source code where I can't share it.
+---
 
-* Backend architecture and API design
-
-* Databases and data modeling
-
-* Security concepts and defensive programming
-
-* How to structure larger projects cleanly and maintainably
-
-**Technical Skills**
-
-* **Languages:** Python, JavaScript, Java
-
-* **Frameworks:** Flask, Node, TailwindCSS
-
-* **Databases:** MongoDB, SQLite, Postgres
-
-* Tools: Git, GitHub, Docker, VS Code
-
-**Projects**
-
-Most of my repositories reflect my learning process and growth as a developer. They include:
-*Due to most of my projects being commissions from clients, I cannot post source code to every project I have done; I will instead write a case-study in-place.*
-
-* Practical tools and services I’ve built for real use
-
-* Experiments to better understand systems, security, and architecture
-
-* Iterative projects where I improve the design over time
-
-Contact
-
-Feel free to reach out through GitHub if you have any inquries
+Reach me at **[suyash.gupta0320@email.com](mailto:suyash.gupta0320@email.com)**
